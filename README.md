@@ -18,10 +18,8 @@
 <br />
 <img align="right" alt="GIF" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
 
-### I am Ajay Singh Khalsa
-- ML & Open Source enthusiast.
+### I am Otávio Dantas
+- Algorithm & ML  enthusiast.
 - A Control and Automation Engineering Undergraduate Student. 
-- Currently working on some of my cool side projects based on Web Development and Machine Learning.
-- I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
-
-Template From [AjayKhalsa](https://github.com/AjayKhalsa)
+- Currently working on some projects based on Web Development.
+- I'm currently looking for opportunities.

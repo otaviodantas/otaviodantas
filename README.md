@@ -16,7 +16,7 @@
   <img align="left" alt="Ajay's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
 </a>
 <br />
-<img align="right" alt="GIF" padding= 25px src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
 
 ### I am Otávio Dantas
 - Algorithm & ML  enthusiast.
